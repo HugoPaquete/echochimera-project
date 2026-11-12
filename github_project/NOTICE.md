@@ -7,6 +7,8 @@ All rights reserved.
 
 The text and images in this repository are licensed under CC BY-NC-ND
 4.0 as described in [LICENSE-DOCS.md](LICENSE-DOCS.md).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24166360.svg)](https://doi.org/10.5281/zenodo.24166360)
+[![Licence: CC BY-NC-ND 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Software
 
