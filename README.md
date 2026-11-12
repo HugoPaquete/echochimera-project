@@ -4,6 +4,9 @@
 Hugo Paquete · INET-md / University of Aveiro and Absonus Lab  
 AI as Catalyst / Transformative Impacts on Digital Performance, Computer Music, and Cultural Creativity · 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24166360.svg)](https://doi.org/10.5281/zenodo.24166360)
+[![Licence: CC BY-NC-ND 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 This repository is the **public documentation** for ECHOCHIMERA. It
 contains no source code, executable, build artefacts or user data.
 
