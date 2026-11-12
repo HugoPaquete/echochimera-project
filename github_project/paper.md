@@ -7,7 +7,7 @@ title: Technical paper
 
 **Hugo Paquete**  
 INET-md / University of Aveiro and Absonus Lab  
-AI as Catalyst / MECS
+AI as Catalyst / Transformative Impacts on Digital Performance, Computer Music, and Cultural Creativity
 
 > Technical preprint. Not peer-reviewed.
 
