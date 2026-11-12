@@ -12,7 +12,7 @@ Scientific Employment Grant**, funded by the Portuguese Foundation for
 Science and Technology (FCT).
 
 Institution: INET-md / University of Aveiro and Absonus Lab.  
-Research programme: AI as Catalyst / MECS.
+Research programme: AI as Catalyst / Transformative Impacts on Digital Performance, Computer Music, and Cultural Creativity.
 
 ## Grant references
 
