@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you cite ECHOCHIMERA, please use this metadata."
+title: "ECHOCHIMERA: AI Heautoscopy Performance Instrument"
+type: software
+authors:
+  - family-names: Paquete
+    given-names: Hugo
+    affiliation: "INET-md / University of Aveiro and Absonus Lab"
+year: 2026
+version: "1.10.0"
+abstract: >-
+  A real-time MIDI instrument for human-AI performance. It listens,
+  decides whether to answer, selects a musical character and performs a
+  bounded response through an allow-listed MIDI router.
+keywords:
+  - human-AI performance
+  - meta-listening
+  - heautoscopy
+  - generative music
+  - MIDI
+  - constrained agency
+license: CC-BY-NC-ND-4.0
