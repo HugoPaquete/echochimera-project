@@ -7,6 +7,7 @@ AI as Catalyst / MECS · 2026
 This repository is the **public documentation** for ECHOCHIMERA. It
 contains no source code, executable, build artefacts or user data.
 
+github_project/assets/quadpad.png
 ![ECHOCHIMERA interface](assets/gui/CONTACT_SHEET.png)
 
 ## What is ECHOCHIMERA?
