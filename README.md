@@ -2,7 +2,7 @@
 
 **AI Heautoscopy Performance Instrument**  
 Hugo Paquete · INET-md / University of Aveiro and Absonus Lab  
-AI as Catalyst / MECS · 2026
+AI as Catalyst / Transformative Impacts on Digital Performance, Computer Music, and Cultural Creativity · 2026
 
 This repository is the **public documentation** for ECHOCHIMERA. It
 contains no source code, executable, build artefacts or user data.
