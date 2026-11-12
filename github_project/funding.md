@@ -20,14 +20,8 @@ Add the exact grant reference, DOI and funding acknowledgment required by
 the call before publication:
 
 ```text
-FCT grant reference: [to be inserted]
-FCT DOI: [to be inserted]
-CEEC call: [to be inserted]
+FCT grant reference CEEC: C818-547A-287C
 ```
-
-Do not publish a grant number until it is confirmed by the funding
-office.
-
 ## Disclaimer
 
 The views expressed in this project are those of the author and do not
