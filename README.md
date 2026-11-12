@@ -1,4 +1,4 @@
-# ECHOCHIMERA — public project documentation
+# ECHOCHIMERA: AI Heautoscopy Performance Instrument
 
 **AI Heautoscopy Performance Instrument**  
 Hugo Paquete · INET-md / University of Aveiro and Absonus Lab  
