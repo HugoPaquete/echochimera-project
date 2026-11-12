@@ -39,7 +39,7 @@ than listing them as anonymous “contributors”.
 
 - INET-md / University of Aveiro;
 - Absonus Lab;
-- AI as Catalyst / MECS;
+- AI as Catalyst / Transformative Impacts on Digital Performance, Computer Music, and Cultural Creativity;
 - FCT — CEEC Individual Scientific Employment Grant;
 - performers and colleagues who tested the instrument.
 
